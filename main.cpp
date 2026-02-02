@@ -1,3 +1,7 @@
+//Name: Ethan Hofsteen
+//Date: 2/1/26
+//Class: MSCI-272
+//Purpose: Use a class and its member functions to organize Bank Accounts within a Vector.
 #include <iostream>
 #include <vector>
 
